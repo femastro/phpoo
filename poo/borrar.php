@@ -1,5 +1,5 @@
 <?php 
-	require "src/Conectar.php";
+    require "src/Conectar.php";
     require "src/Borrar.php";
 
     $borrar = new Borrar();
